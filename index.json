@@ -1,0 +1,11 @@
+{
+  "org": "frictionlessdata",
+  "repo": "tableschema-py",
+  "versions": [
+    {
+      "commit": "75d2accb985c3bfe2e72fc6ee987b6b16628d295",
+      "tag": "",
+      "parsed_at": "2026-10-19T12:39:44.883817+00:00"
+    }
+  ]
+}
