@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/frictionlessdata/tableschema-py/commit/75d2accb985c3bfe2e72fc6ee987b6b16628d295",
       "git:hexsha": "75d2accb985c3bfe2e72fc6ee987b6b16628d295",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T12:39:44.882961+00:00"
     },
     {
       "@id": "https://repolex.ai/r/frictionlessdata/tableschema-py/commit/e89b8740377612fcd32cf98f1609e9e1f85e1192",
